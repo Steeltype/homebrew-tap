@@ -1,6 +1,6 @@
 cask "crocprobe" do
-  version "1.0.16"
-  sha256 "6231494a98beb0be499ef0129f4258280452e4ae2f0df8af4d7af2ac9101ea38"
+  version "1.0.17"
+  sha256 "55617ca2171e77b62374d5c132a9e2ace42040f0aa34388e08c8076766aac951"
 
   url "https://crocprobe.com/releases/CrocProbe-#{version}-arm64.dmg"
   name "CrocProbe"
